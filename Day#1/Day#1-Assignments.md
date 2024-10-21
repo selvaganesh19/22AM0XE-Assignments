@@ -60,15 +60,14 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Disney+ Hotstar is hosted on Amazon Web Services (AWS)
+- Disney+ Hotstar is hosted on Amazon Web Services (AWS)
    - Logo: ![image](https://github.com/user-attachments/assets/182c013b-9b49-480a-95e7-7125188c78f2)
    - Details: Disney+ Hotstar is an online video streaming platform that offers over 100,000 hours of TV content and movies in nine languages.
 
-> MX Player is now hosted on Amazon's cloud platform (AWS)
+- MX Player is now hosted on Amazon's cloud platform (AWS)
    - Logo: ![image](https://github.com/user-attachments/assets/9e4c43fe-1ac5-40bf-a2df-4b4911924a31)
    - Details: Amazon MX Player uses Limelight Networks' Content Delivery Network (CDN) to provide a broadcast-quality experience to its viewers.
-
-> ZEE5 is hosted on Microsoft Azure
+- ZEE5 is hosted on Microsoft Azure
    - Logo: ![image](https://github.com/user-attachments/assets/0e01e770-95bd-4ee8-a13f-32511b147084)
    - Details: ZEE5 offers a variety of content, including: Exclusive originals, Indian and international movies and TV shows, Music, and Health and lifestyle videos.
 
